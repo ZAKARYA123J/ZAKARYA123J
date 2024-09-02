@@ -1,5 +1,5 @@
 # 💫 About Me:
-Certainly! Here's a paragraph you can use:<br><br>I'm a 20-year-old full-stack developer currently working at Ocean connect. My role involves handling both front-end and back-end development, ensuring that every aspect of our applications is seamless and efficient. With a passion for coding and problem-solving, I contribute to various projects that require a strong understanding of modern technologies and frameworks. I thrive in collaborative environments, always eager to learn new skills and improve existing ones to deliver high-quality software solutions.
+I'm a 20-year-old full-stack developer currently working at Ocean connect. My role involves handling both front-end and back-end development, ensuring that every aspect of our applications is seamless and efficient. With a passion for coding and problem-solving, I contribute to various projects that require a strong understanding of modern technologies and frameworks. I thrive in collaborative environments, always eager to learn new skills and improve existing ones to deliver high-quality software solutions.
 
 
 ## 🌐 Socials:
